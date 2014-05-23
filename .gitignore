@@ -8,6 +8,7 @@
 ehthumbs.db
 Thumbs.db
 
+*.MF
 *.class
 
 # Mobile Tools for Java (J2ME)
